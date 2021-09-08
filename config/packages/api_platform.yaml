@@ -1,6 +1,6 @@
 api_platform:
-    title: 'Symfony REST API'
-    description: 'A Symfony API to manage a simple blog app.'
+    title: 'Symfony REST API, API PLATFORM'
+    description: 'Projet API Symfony, mettant en avant un CRUD avec une entité'
     version: '1.0.0'
     mapping:
         paths: ['%kernel.project_dir%/src/Entity']
